@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 #twitter_username: username
-github_username: open-consensus
-minimal_mistakes_skin: sunrise        # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+github_username: open-escola
+minimal_mistakes_skin: air        # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 timezone: "America/Sao_Paulo" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 locale: pt-BR
