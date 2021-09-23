@@ -61,7 +61,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: Open Escola"
+  name: Open Escola
   avatar: "/assets/images/logo.png"
   bio: "Informações sobre o Sistema de Gerenciamento de uma Escola. Projeto
    desenvolvido com framework Django, para atendimento à proposta do Projeto Integrador"
